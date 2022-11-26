@@ -1,7 +1,7 @@
 ### Oi!! Eu sou o Douglas Regatieri
 
-- 📱 Trabalhando com Desenvolvimento Mobile
-- 🌱 Estudando Flutter
+- 📱 Trabalhando com Análise de Dados
+- 🐍 Estudando Python
 
 <div align="center">
   <a href="https://github.com/douglas-regatieri">
